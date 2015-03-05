@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int main()
+
+{
+    int n = 0;
+    cin >> n;
+    for (int n = 0; n >= 0; ++n) {
+        cout << n;
+    }
+    return 0;
+}
